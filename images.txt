@@ -6,6 +6,8 @@ xhofe/alist:latest
  jefferyhjw/bilinote-frontend:latest
  jefferyhjw/bilinote-nginx:latest
  jefferyhjw/bilinote-backend:latest
+#AstrBot机器人
+ soulter/astrbot:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/open-webui/open-webui
